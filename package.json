@@ -1,0 +1,9 @@
+{
+  "name": "aswa-yarntest",
+  "version": "1.0.0",
+  "repository": "https://github.com/jeroenvdmeer/aswa-yarntest.git",
+  "author": "jeroenvdmeer <1658477+jeroenvdmeer@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["packages/*"]
+}

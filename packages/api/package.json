@@ -1,0 +1,13 @@
+{
+  "name": "@aswa-yarntest/api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@aswa-yarntest/common": "*"
+  },
+  "devDependencies": {}
+}
