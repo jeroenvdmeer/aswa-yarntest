@@ -5,5 +5,10 @@
   "author": "jeroenvdmeer <1658477+jeroenvdmeer@users.noreply.github.com>",
   "license": "MIT",
   "private": true,
-  "workspaces": ["packages/*"]
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "yarn": "^3.0.1"
+  }
 }
