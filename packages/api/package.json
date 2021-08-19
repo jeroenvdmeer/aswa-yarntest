@@ -6,9 +6,6 @@
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
-  "engines": {
-    "yarn": "^3.0.1"
-  },
   "dependencies": {
     "@aswa-yarntest/common": "*"
   }

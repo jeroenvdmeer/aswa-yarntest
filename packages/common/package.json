@@ -2,8 +2,5 @@
   "name": "@aswa-yarntest/common",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
-  "engines": {
-    "yarn": "^3.0.1"
-  }
+  "license": "MIT"
 }
